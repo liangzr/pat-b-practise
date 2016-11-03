@@ -1,7 +1,7 @@
 # coding:utf-8
 # 卡拉兹(Callatz)猜想
 
-def calc_callatz(num, i):
+def calc_callatz(num, i = 0):
 	if num == 1: 
 		return i
 
@@ -13,4 +13,4 @@ def calc_callatz(num, i):
 
 print "please enter a integer: "
 integer = input()
-print calc_callatz(integer, 0)
+print calc_callatz(integer)
