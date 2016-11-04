@@ -5,10 +5,8 @@ a pat practise of liangzr
 
 - [Lua](#Lua)
 - [Python](#Python)
-- [C](#C)
 - [Java](#Java)
 - [Javascript](#Javascript)
-- [Shell](#Shell)
 
 ## Lua
 
